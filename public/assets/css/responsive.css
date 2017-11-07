@@ -1,0 +1,2551 @@
+@media screen and (max-width: 1024px) {
+    .header-main .logo .header-logo img {
+        max-width: 125px;
+        width: 100%
+    }
+
+    .sunhouse-item .info-house {
+        padding: 15px 15px 5px
+    }
+
+    .sunhouse-item .info-house .info {
+        margin-bottom: 10px
+    }
+
+    .sunhouse-item .more-info-house .place-house {
+        width: 100%;
+        display: block
+    }
+
+    .sunhouse-item .more-info-house .price {
+        margin-top: 10px;
+        float: left;
+        text-align: left
+    }
+
+    .col-md-4 .sunhouse-item .wrapper-image {
+        height: 200px
+    }
+
+    .our-service-items .text {
+        font-size: 1em
+    }
+
+    .our-agent-item .item-wrapper .our-agent-socials {
+        padding: 15px 0 0 0
+    }
+
+    .our-agent-item .item-wrapper .our-agent-socials a {
+        margin-left: 5px;
+        margin-right: 5px;
+        width: 36px;
+        height: 36px;
+        line-height: 36px
+    }
+
+    .banner-full-screen-2 {
+        min-height: 667px
+    }
+
+    .banner-sale-off .banner-sale-off-background .background-glass {
+        width: 80%
+    }
+
+    .banner-sale-off .banner-sale-off-background .background-house {
+        bottom: 30px
+    }
+
+    .banner-sale-off .banner-sale-off-background .background-gray {
+        top: 0
+    }
+
+    .banner-sale-off .banner-sale-off-wrapper {
+        display: inherit;
+        top: 60px
+    }
+
+    .banner-sale-off .name-house {
+        display: block;
+        text-align: right;
+        margin-bottom: 20px
+    }
+
+    .banner-sale-off .price-house {
+        display: block;
+        margin-right: 0;
+        margin-left: auto
+    }
+
+    .banner-06 .banner-1 .wrapper-banner, .banner-06 .banner-2 .wrapper-banner, .banner-06 .banner-3 .wrapper-banner {
+        padding: 0 20%
+    }
+
+    .amenites-list {
+        padding: 0 15px
+    }
+
+    .banner-flip {
+        padding: 0 0 10px 0
+    }
+
+    .contact-us .contact-us-scroll {
+        width: 970px;
+        top: 50%;
+        margin-top: -230px;
+        margin-left: -485px
+    }
+
+    .gallery-widget .gallery-list a {
+        margin: 0 12px 12px 0
+    }
+
+    .service-content {
+        padding: 0 0 100px 0;
+        margin-bottom: 0
+    }
+
+    .service-content .media-image {
+        width: 40%
+    }
+
+    .service-content .pr100 {
+        padding-right: 50px
+    }
+
+    .service-content .des .text {
+        margin-bottom: 25px
+    }
+
+    .service-content .padding-top-2 {
+        padding-top: 0
+    }
+
+    .service-graph .media-image {
+        padding-top: 100px
+    }
+
+    .service-graph .pl100.media-image {
+        padding-left: 50px
+    }
+
+    .service-graph:first-of-type .media-image {
+        padding-top: 0
+    }
+
+    .service-graph:nth-child(2n) {
+        background-color: #fff
+    }
+
+    .margin-top {
+        position: static;
+        padding-top: 100px
+    }
+
+    .banner-ads {
+        padding: 0
+    }
+
+    .underline {
+        margin-bottom: 40px
+    }
+
+    .underline:after {
+        margin-bottom: 10px
+    }
+
+    .contact-agent-single-background .background-house {
+        left: 3%;
+        width: 53%;
+        bottom: 35px
+    }
+
+    .contact-agent-single-content .new-letter-wrapper {
+        padding: 30px 30px 50px 80px
+    }
+
+    .agent-list .agent-item .agent-image {
+        width: 250px;
+        padding: 25px 25px 0 25px
+    }
+
+    .property-view .margin-top {
+        position: relative;
+        top: -60px;
+        padding-top: 0
+    }
+
+    .property-view .btn-list-grid {
+        display: none
+    }
+
+    .property-view .property-nav {
+        padding-right: 0
+    }
+
+    .property-view .property-nav .property-nav-item {
+        width: 29.5%
+    }
+
+    .nav-bar .detail-nav .nav-item {
+        width: 154px
+    }
+
+    .property-detail .detail-wrapper .detail-content .amenities-item i, .property-detail .detail-wrapper .detail-content .condition-item i {
+        margin-right: 15px
+    }
+
+    .property-detail .detail-wrapper .detail-content .property-info {
+        margin-bottom: 40px
+    }
+
+    .property-detail .detail-wrapper .detail-content .gallery {
+        margin-bottom: 30px
+    }
+
+    .property-detail .detail-wrapper .detail-content .amenities, .property-detail .detail-wrapper .detail-content .condition, .property-detail .detail-wrapper .detail-content .description {
+        margin-bottom: 60px
+    }
+
+    .contact-agent-widget .social-info .link {
+        margin-left: 7px
+    }
+
+    .blog .sunhouse-item:last-of-type {
+        margin-bottom: 20px
+    }
+
+    .blog-detail .blog-text .quote, .blog .wrapper-content .about-house .title, .blog-detail .wrapper-content .about-house .title, .blog-detail .blog-text .title {
+        line-height: 1.1
+    }
+
+    .gallery-nav {
+        padding: 40px
+    }
+
+    .gallery-content {
+        padding: 0
+    }
+
+    .gallery-content .group-title {
+        padding-top: 60px;
+        margin-bottom: 30px
+    }
+
+    .gallery-content .load-more {
+        padding-top: 25px
+    }
+
+    .grid-item {
+        width: 30%
+    }
+
+    .footer-main-wrapper {
+        padding-top: 100px
+    }
+
+    .contact-fast .new-letter-content .new-letter-left {
+        padding-top: 50px
+    }
+
+    .contact-fast .new-letter-content .new-letter-left img, .contact-fast .new-letter-content .new-letter-left .agent-single-info-wrapper {
+        top: auto
+    }
+
+    .signup-register .signup-register-table {
+        padding: 50px
+    }
+
+    .signup-register .signup-register-table .title {
+        margin: 10px;
+        font-size: 1.286em;
+        margin-bottom: 25px
+    }
+
+    .signup-register .signup-register-table .btn {
+        margin-top: 5px
+    }
+
+    .signup-register .signup-register-table .search-form-group {
+        margin-bottom: 15px
+    }
+
+    .signup-register .form-register .col-md-6 {
+        margin-bottom: 25px
+    }
+
+    .signup-register .form-signup .col-md-12 {
+        margin-bottom: 25px
+    }
+
+    .pricing-table-wrapper .owl-controls {
+        text-align: center;
+        margin-top: 50px
+    }
+
+    .pricing-table-wrapper .owl-controls .owl-prev, .pricing-table-wrapper .owl-controls .owl-next {
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+        text-align: center;
+        color: #34495e;
+        background-color: #eeefef;
+        border: 2px solid #eeefef;
+        transition: all 0.2s ease
+    }
+
+    .pricing-table-wrapper .owl-controls .owl-prev:hover, .pricing-table-wrapper .owl-controls .owl-next:hover {
+        background-color: #fff;
+        color: #2aacff;
+        border-color: #2aacff
+    }
+
+    .pricing-table-wrapper .owl-controls .owl-prev {
+        margin-right: 5px
+    }
+
+    .pricing-table-wrapper .owl-controls .owl-next {
+        margin-left: 5px
+    }
+
+    .seller-info .feature-item .feature-img {
+        height: auto
+    }
+
+    .user-profile-wrappers {
+        padding-bottom: 100px
+    }
+
+    .gallery-widget .gallery-list .thumb {
+        margin: 0 13px 13px 0
+    }
+
+    .coming-soon-page {
+        min-height: 667px
+    }
+
+    .coming-soon-page .soon-page-wrapper .row {
+        display: table
+    }
+
+    .coming-soon-page .soon-page-wrapper .col-md-7 {
+        padding: 0;
+        display: table-cell;
+        vertical-align: middle;
+        width: 80%;
+        text-align: center;
+        float: none
+    }
+
+    .coming-soon-page .cs-wrapper {
+        padding: 60px
+    }
+
+    .coming-soon-page .cs-wrapper:before {
+        display: none
+    }
+
+    .coming-soon-page .cs-wrapper .countdown {
+        text-align: center
+    }
+
+    .coming-soon-page .countdown .count-wrapper:nth-last-of-type(1) {
+        padding-right: 0
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .contact-fast .new-letter-content .new-letter-left {
+        width: 32%
+    }
+
+    .grid-item {
+        width: 45.5%
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .sidebar-left {
+        float: right
+    }
+
+    .padding-bottom {
+        padding-bottom: 60px
+    }
+
+    .padding-top {
+        padding-top: 60px
+    }
+
+    .margin-top {
+        padding-top: 60px
+    }
+
+    .margin-top-2 {
+        position: static;
+        top: auto
+    }
+
+    .widget {
+        margin-top: 30px
+    }
+
+    .search-widget {
+        padding: 30px 20px
+    }
+
+    .contact-agent-widget .contact-info .info {
+        display: block
+    }
+
+    .contact-agent-widget .social-info .link {
+        margin-left: 15px
+    }
+
+    .btn-margin-top {
+        margin-top: 60px
+    }
+
+    .header-main .logo {
+        line-height: 40px
+    }
+
+    .header-main .navigation {
+        padding-left: 0;
+        padding-right: 0
+    }
+
+    .header-main .navigation .nav-links .main-menu {
+        line-height: 50px;
+        margin: 0 10px;
+        font-size: 0.95em
+    }
+
+    .header-main .dropdown-menu-1, .header-main .dropdown-menu-2 {
+        top: 50px;
+        min-width: 200px
+    }
+
+    .header-main .dropdown-menu-2 {
+        top: 0
+    }
+
+    .about-house-section .about-house-image {
+        width: 250px
+    }
+
+    .about-house-section .about-house-content {
+        padding-left: 30px
+    }
+
+    .banner-come-in {
+        height: 240px
+    }
+
+    .banner-come-in .banner-come-in-wrapper .text {
+        font-size: 2.143em
+    }
+
+    .user-profile-wrappers {
+        padding-bottom: 60px
+    }
+
+    .banner-04 .banner-04-background .background-house {
+        bottom: 20px !important;
+        width: 55%
+    }
+
+    .banner-04 .banner-04-background .background-glass.layer-1 {
+        width: 85%
+    }
+
+    .banner-04 .banner-04-background .background-glass.layer-2 {
+        width: 105%;
+        bottom: 0 !important
+    }
+
+    .banner-04 .banner-04-wrapper {
+        text-align: center;
+        padding-bottom: 60px
+    }
+
+    .banner-04 .banner-04-wrapper .wrapper-title:before {
+        right: auto;
+        left: 50%;
+        margin-left: -35px
+    }
+
+    .banner-04 .banner-04-wrapper .content .text {
+        width: 70%;
+        margin: 0 auto;
+        float: none
+    }
+
+    .banner-04 .banner-04-wrapper .description {
+        width: 100%
+    }
+
+    .banner-04 .banner-04-wrapper .description .price-left {
+        display: inline-block;
+        margin-right: 15px;
+        width: 40%;
+        text-align: right
+    }
+
+    .banner-04 .banner-04-wrapper .description .button-right {
+        display: inline-block;
+        text-align: left;
+        margin-left: 15px;
+        width: 40%
+    }
+
+    .banner-06 .banner-1 .bg-image img, .banner-06 .banner-2 .bg-image img, .banner-06 .banner-3 .bg-image img {
+        display: none
+    }
+
+    .property-view .margin-top {
+        position: static;
+        padding-top: 60px
+    }
+
+    .property-view .property-nav .property-nav-item {
+        width: 28.5%
+    }
+
+    .about-house-section .about-house-banner {
+        position: inherit;
+        bottom: auto;
+        width: 300px
+    }
+
+    .about-house-section .about-house-banner .about-house-banner-wrapper {
+        padding: 20px
+    }
+
+    .about-house-section .about-house-banner .about-house-banner-wrapper .title {
+        font-size: 2.143em;
+        line-height: 1.1em
+    }
+
+    .about-house-section .about-house-banner .about-house-banner-wrapper .address {
+        padding: 15px 0 20px 0;
+        line-height: 1.3em
+    }
+
+    .about-house-section .about-house-banner .about-house-banner-wrapper .price-for-house {
+        padding: 50px 0 30px 0;
+        text-align: center;
+        font-size: 1.2em
+    }
+
+    .about-house-section .about-house-banner .info-house {
+        margin-top: 20px
+    }
+
+    .about-house-section .about-house-banner .info-house .info {
+        margin-bottom: 10px
+    }
+
+    .about-house-section .about-house-banner .info-house .info .text {
+        padding-left: 15px
+    }
+
+    .about-house-section .about-house-content.about-house-padding-left {
+        padding-left: 30px
+    }
+
+    .search-properties .search-form {
+        margin-bottom: 0
+    }
+
+    .search-properties .search-form .col-md-3:nth-last-child(-n+4) .search-form-group {
+        margin-bottom: 25px
+    }
+
+    .newest-properties .newest-properties-content .col-md-4:nth-last-child(-n+3) {
+        margin-bottom: 50px
+    }
+
+    .newest-properties .newest-properties-content .col-md-4:nth-last-child(-n+2) {
+        margin-bottom: 0
+    }
+
+    .banner-sale-off {
+        height: 360px
+    }
+
+    .banner-sale-off .banner-sale-off-background .background-house {
+        width: 45%
+    }
+
+    .banner-sale-off .banner-sale-off-background .background-glass {
+        width: 100%
+    }
+
+    .banner-sale-off .banner-sale-off-wrapper {
+        display: inline-block;
+        position: relative;
+        width: 100%;
+        height: auto;
+        right: auto;
+        text-align: right
+    }
+
+    .banner-sale-off .banner-sale-off-wrapper .name-house, .banner-sale-off .banner-sale-off-wrapper .price-house {
+        text-align: center
+    }
+
+    .banner-sale-off .price-house {
+        padding: 30px 20px 20px 20px
+    }
+
+    .find-best-house .title {
+        font-size: 2.143em;
+        text-transform: uppercase;
+        font-weight: 900
+    }
+
+    .find-best-house .content {
+        width: 90%
+    }
+
+    .service-content {
+        padding-bottom: 60px
+    }
+
+    .service-content .pr100 {
+        padding-right: 30px
+    }
+
+    .agent-list-content {
+        padding-bottom: 0
+    }
+
+    .sidebar {
+        padding-bottom: 60px
+    }
+
+    .service-graph .media-image {
+        padding-top: 60px
+    }
+
+    .our-service-items .icon-wrapper {
+        margin-bottom: 10px
+    }
+
+    .contact .contact-us-wrapper .img-contact-people {
+        left: 0;
+        max-width: 300px;
+        height: auto
+    }
+
+    .contact-us {
+        min-height: 580px
+    }
+
+    .contact-us .contact-us-scroll {
+        width: auto;
+        margin-left: 0;
+        left: 30px;
+        right: 30px
+    }
+
+    .contact-us-wrapper, .new-letter-wrapper {
+        padding: 0 20px
+    }
+
+    .banner-default .banner-default-wrapper .banner-default-images {
+        display: none
+    }
+
+    .banner-default .banner-default-wrapper .banner-default-content {
+        margin: 0 auto;
+        width: 100%;
+        text-align: center
+    }
+
+    .banner-default .banner-default-wrapper .banner-default-content .title {
+        display: inline-block
+    }
+
+    .agent-statistics {
+        margin-top: 30px
+    }
+
+    .agent-single-info-wrapper {
+        margin-top: 30px
+    }
+
+    .agent-single-info-wrapper .agent-single-info.socials {
+        margin-top: 10px;
+        text-align: left
+    }
+
+    .agent-single-info-wrapper .agent-single-info.socials a {
+        text-align: left
+    }
+
+    .contact-agent-single-background .background-house {
+        display: none
+    }
+
+    .contact-agent-single-content .new-letter-wrapper {
+        width: 100%;
+        padding: 30px;
+        padding-bottom: 50px
+    }
+
+    .contact-agent-single-content .contact-form {
+        width: 100%;
+        max-width: 100%
+    }
+
+    .statistic-items .number {
+        margin-bottom: 5px
+    }
+
+    .footer-main-wrapper {
+        padding-top: 60px
+    }
+
+    .footer-main-wrapper .col-2 > .row {
+        margin-bottom: 30px
+    }
+
+    .footer-main-wrapper .col-2:last-child > .row {
+        margin-bottom: 0
+    }
+
+    .footer-efect {
+        position: inherit
+    }
+
+    .padding-wrapper-user-reponsive {
+        padding-bottom: 50px
+    }
+
+    .submit-dimension {
+        padding-top: 40px
+    }
+
+    .map-submit-properties {
+        padding-top: 40px
+    }
+
+    .signup-register .signup-register-table .btn {
+        margin: 0
+    }
+
+    .pricing-description {
+        padding: 30px 15px
+    }
+
+    .page-title .page-title-wrapper .captions {
+        font-size: 2.5em
+    }
+
+    .pricing-table .pricing-table-wrapper .group-btn-slider {
+        display: block;
+        position: relative
+    }
+
+    .faq-wrapper .padding-bottom {
+        padding-bottom: 0
+    }
+
+    .padding-wrapper-user-reponsive {
+        padding-bottom: 50px
+    }
+
+    .submit-dimension {
+        padding-top: 40px
+    }
+
+    .map-submit-properties {
+        padding-top: 40px
+    }
+
+    .pricing-description .price-for-user .price .money {
+        font-size: 4em
+    }
+
+    .pricing-description .price-for-user .price sup {
+        font-size: 2.5em
+    }
+
+    .banner-flip-list .banner-flip-item {
+        min-height: 220px
+    }
+
+    .banner-flip-list .banner-flip-item .banner-font .text {
+        left: 0;
+        bottom: 0;
+        right: 0;
+        top: 50%;
+        margin-top: -20px;
+        width: 100%;
+        padding: 0 20px
+    }
+
+    .banner-flip-list .banner-flip-item .banner-font .area {
+        font-size: 1.2em;
+        padding: 10px 15px
+    }
+
+    .near-attraction .near-attraction-list {
+        margin: 0
+    }
+
+    .near-attraction .near-attraction-list .items-right .text {
+        height: 50px;
+        overflow: hidden
+    }
+
+    .sunhouse-title .main-title {
+        font-size: 1.9em
+    }
+
+    .about-house-section .about-house-content .title {
+        font-size: 1.9em
+    }
+
+    .contact-us-wrapper .title {
+        font-size: 1.9em
+    }
+
+    .banner-06 .banner-1 .wrapper-banner, .banner-06 .banner-2 .wrapper-banner, .banner-06 .banner-3 .wrapper-banner {
+        padding: 0 15%
+    }
+
+    .coming-soon-page .cs-wrapper {
+        padding: 60px 30px
+    }
+
+    .coming-soon-page .cs-wrapper .countdown .count-wrapper {
+        padding-right: 30px
+    }
+
+    .coming-soon-page .cs-wrapper .countdown .count-wrapper:nth-last-of-type(1) {
+        padding-right: 0
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .navbar-toggle {
+        margin-right: 0;
+        margin-bottom: 0
+    }
+
+    .navbar-toggle .icon-bar {
+        background-color: #fff
+    }
+
+    .header-main {
+        height: 50px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1)
+    }
+
+    .header-main .logo .header-logo img {
+        max-width: 150px
+    }
+
+    .header-main .navigation {
+        min-width: 350px;
+        text-align: left;
+        position: absolute;
+        right: 0;
+        background-color: #fff;
+        top: 50px
+    }
+
+    .header-main .navigation .nav-links {
+        margin: 0
+    }
+
+    .header-main .navigation .nav-links .main-menu {
+        line-height: 50px;
+        padding: 0 20px;
+        margin: 0;
+        font-size: 1em;
+        border-bottom: 1px solid #efefef
+    }
+
+    .header-main .navigation .nav-links .main-menu .icons-dropdown {
+        float: right;
+        line-height: 50px;
+        height: 50px
+    }
+
+    .header-main .navigation .nav-links.active .main-menu {
+        border-bottom: none
+    }
+
+    .header-main .navigation .nav-links:hover .main-menu {
+        background-color: transparent
+    }
+
+    .header-main .navigation .nav-links:hover .main-menu:after {
+        height: 0
+    }
+
+    .header-main .dropdown-menu-1, .header-main .dropdown-menu-2 {
+        border: none;
+        padding: 0;
+        text-align: right
+    }
+
+    .header-main .dropdown-menu-1 > li > .link-page, .header-main .dropdown-menu-2 > li > .link-page {
+        line-height: 40px;
+        margin: 0;
+        padding-right: 30px;
+        text-align: left
+    }
+
+    .header-main .dropdown-menu-1 > li > .link-page .icons-dropdown, .header-main .dropdown-menu-2 > li > .link-page .icons-dropdown {
+        -webkit-transform: rotate(90deg);
+        transform: rotate(90deg)
+    }
+
+    .header-main .dropdown-menu-1 {
+        padding: 0 20px 0 20px;
+        border-bottom: 1px solid #2aacff
+    }
+
+    .header-main .dropdown-menu-2 {
+        background-color: #fff;
+        border-bottom: none;
+        padding-right: 30px;
+        border-top: 1px solid #2aacff
+    }
+
+    .header-main .dropdown-menu-2 > li > .link-page {
+        border-top: 1px solid #efefef;
+        border-bottom: none
+    }
+
+    .header-main .dropdown-menu-2 > li:first-child > .link-page {
+        border-top: none
+    }
+
+    .header-main .dropdown-menu-2 > li:last-child > .link-page {
+        border-bottom: 1px solid #efefef
+    }
+
+    .header-main.header-fixed .logo .header-logo img {
+        max-width: 150px
+    }
+
+    .header-main.header-style2 .logo {
+        display: inline-block
+    }
+
+    .header-main.header-style2 .logo:before, .header-main.header-style2 .logo:after {
+        display: none
+    }
+
+    .header-main.header-style2 .navbar-header {
+        border-bottom: none
+    }
+
+    .header-main.header-style2 .navigation .nav-links {
+        display: block;
+        text-align: right
+    }
+
+    .header-main.header-style2.header-fixed .logo .header-logo img {
+        max-width: 150px
+    }
+
+    header .bg-transparent .header-main {
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1)
+    }
+
+    header .bg-transparent .header-main .navbar-toggle {
+        border: 1px solid #efefef;
+        background-color: transparent
+    }
+
+    header .bg-transparent .header-main .navigation .nav-links li .main-menu {
+        color: #5e6d77
+    }
+
+    header .bg-transparent .header-main .navigation .nav-links li.active .main-menu, header .bg-transparent .header-main .navigation .nav-links li:hover .main-menu {
+        color: #2aacff
+    }
+
+    header .bg-transparent .header-main.header-fixed .navbar-toggle {
+        border: 1px solid #2aacff;
+        background-color: #2aacff
+    }
+
+    header .bg-transparent .header-main.header-style2.header-fixed .logo-black {
+        display: inline-block !important
+    }
+
+    header .bg-transparent .header-main.header-style2 .navbar-header {
+        border-bottom: none
+    }
+
+    header .bg-white .header-main {
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1)
+    }
+
+    header .bg-white .header-main .navbar-toggle {
+        border: 1px solid #2aacff;
+        background-color: #2aacff
+    }
+
+    header .bg-white .header-main .navigation .nav-links li .main-menu {
+        color: #5e6d77
+    }
+
+    header .bg-white .header-main .navigation .nav-links li.active .main-menu, header .bg-white .header-main .navigation .nav-links li:hover .main-menu {
+        color: #2aacff
+    }
+
+    .banner-03 .banner-03-wrapper {
+        padding-top: 0
+    }
+
+    .banner-04 .banner-04-background .background-house, .banner-04 .banner-04-background .background-clound {
+        display: none !important
+    }
+
+    .banner-04 .banner-04-background .background-glass {
+        bottom: -5px !important
+    }
+
+    .banner-04 .banner-04-background .background-glass.layer-1 {
+        width: 100%
+    }
+
+    .banner-04 .banner-04-background .background-glass.layer-3 {
+        right: -10px;
+        width: 39%
+    }
+
+    .banner-06 .banner-1, .banner-06 .banner-2, .banner-06 .banner-3 {
+        min-height: 667px
+    }
+
+    .banner-default .banner-default-wrapper .banner-default-content .title .main-title {
+        font-size: 3em;
+        margin-bottom: 3px
+    }
+
+    .banner-default .banner-default-wrapper .banner-default-content .title .sub-title {
+        font-size: 1.45em
+    }
+
+    .hi-there .hi-there-wrapper {
+        width: 100%
+    }
+
+    .page-title {
+        height: 300px
+    }
+
+    .page-title .breadcrumb {
+        padding-bottom: 0
+    }
+
+    .page-title.contact-us-page {
+        height: 300px
+    }
+
+    .contact .contact-wrapper {
+        position: static;
+        padding: 60px 0;
+        float: left
+    }
+
+    .page-404 {
+        min-height: 650px !important
+    }
+
+    .page-404 .page-404-wrapper .logo {
+        margin-bottom: 25px
+    }
+
+    .page-404 .page-404-wrapper .whoop {
+        padding: 10px 0
+    }
+
+    .page-404 .page-404-wrapper .whoop .text {
+        font-size: 3em
+    }
+
+    .page-404 .page-404-wrapper .description {
+        margin-top: 20px
+    }
+
+    .page-404 .page-404-wrapper .img-404 {
+        width: 70%
+    }
+
+    .blog .quote .sub-quote {
+        margin-right: 70px
+    }
+
+    .blog-detail .blog-comment-title {
+        margin-bottom: 20px
+    }
+
+    .blog-detail .blog-comment .comment-list .comment-item, .blog-detail .blog-comment .comment-list-children .comment-item {
+        padding: 20px 0
+    }
+
+    .blog-detail .blog-comment .comment-form {
+        padding: 30px
+    }
+
+    .blog-detail .blog-text {
+        margin-bottom: 50px
+    }
+
+    .blog-detail .blog-text .title, .blog-detail .blog-text .text {
+        margin-bottom: 10px
+    }
+
+    .blog-author {
+        margin-bottom: 50px
+    }
+
+    .grid-item {
+        margin: 0 7.5px 15px;
+        width: 47.4%
+    }
+
+    .grid-item-height2 {
+        height: 535px
+    }
+
+    .gallery-nav {
+        padding: 0;
+        position: relative
+    }
+
+    .gallery-nav .btn-primary {
+        background-color: #2AACFF;
+        border-color: #2AACFF;
+        position: relative;
+        text-align: left;
+        padding: 15px;
+        width: 100%;
+        line-height: 1
+    }
+
+    .gallery-nav .btn-primary:focus, .gallery-nav .btn-primary:hover {
+        background-color: #2AACFF;
+        border-color: #2AACFF
+    }
+
+    .gallery-nav .btn-primary > i {
+        font-size: 18px;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 40px;
+        height: 100%;
+        line-height: 44px;
+        text-align: center
+    }
+
+    .gallery-nav .btn.btn-white-blue-2, .gallery-nav .btn.btn-white-blue-2.btn-all {
+        width: 105px
+    }
+
+    .gallery-nav .filter-inner {
+        padding: 15px
+    }
+
+    .contact-fast .modal-dialog {
+        width: auto;
+        margin-top: 10px
+    }
+
+    .user-profile .user-content li .tab {
+        font-size: 14px
+    }
+
+    .submit-kitchen, .submit-bedroom, .submit-garge, .submit-yard {
+        padding-top: 40px
+    }
+
+    .signup-register {
+        min-height: 680px
+    }
+
+    .signup-register .signup-register-table {
+        padding: 30px
+    }
+
+    .signup-register .signup-register-table .title {
+        font-size: 1.429em
+    }
+
+    .near-attraction .near-attraction-list {
+        width: 70%;
+        margin: 0 auto
+    }
+
+    .near-attraction .near-attraction-list .items-right .text {
+        height: auto;
+        overflow: auto
+    }
+
+    .near-attraction .near-attraction-list:last-child {
+        padding-bottom: 25px
+    }
+
+    .near-attraction .near-attraction-slider {
+        width: 70%;
+        margin: 0 auto
+    }
+
+    .cs-wrapper .coming-soon-wrapper .coming-soon-logo {
+        padding-bottom: 30px
+    }
+
+    .cs-wrapper .coming-soon-wrapper .coming-soon-title {
+        font-size: 2.2em
+    }
+
+    .cs-wrapper .coming-soon-wrapper .coming-soon-title .soon-text {
+        line-height: 30px
+    }
+
+    .cs-wrapper .coming-soon-wrapper .coming-soon-text p {
+        margin-bottom: 0
+    }
+
+    .cs-wrapper .countdown {
+        font-size: 48px
+    }
+
+    .cs-wrapper .countdown .time {
+        padding: 40px 0px;
+        width: 80px;
+        height: 100px
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .btn {
+        line-height: 40px
+    }
+
+    .btn.btn-transparent {
+        line-height: 38px
+    }
+
+    .about-house-section .about-house-banner {
+        width: 270px
+    }
+
+    .col-md-4 .sunhouse-item .wrapper-image {
+        height: 170px
+    }
+
+    header .socials {
+        display: none
+    }
+
+    .about-house-section .about-house-image {
+        display: block;
+        width: 100%
+    }
+
+    .about-house-section .about-house-content {
+        display: block;
+        padding-left: 0;
+        margin-top: 40px
+    }
+
+    .banner-come-in {
+        height: 180px
+    }
+
+    .banner-02 .banner-02-wrapper .wrapper-title .title {
+        font-size: 2.8em
+    }
+
+    .banner-02 .banner-02-wrapper .content .text {
+        width: 100%
+    }
+
+    .banner-03 .banner-03-wrapper .wrapper-title .title {
+        font-size: 2.8em
+    }
+
+    .banner-03 .banner-03-wrapper .content .text {
+        width: 100%
+    }
+
+    .banner-04 .banner-04-wrapper .wrapper-title .title {
+        font-size: 2.8em
+    }
+
+    .banner-04 .banner-04-wrapper .content .text {
+        width: 100%
+    }
+
+    .banner-04 .banner-04-wrapper .description .button-right {
+        width: 50%
+    }
+
+    .banner-06 .banner-1 .wrapper-banner, .banner-06 .banner-2 .wrapper-banner, .banner-06 .banner-3 .wrapper-banner {
+        padding: 0 5%
+    }
+
+    .hi-there .title {
+        font-size: 1.8em;
+        line-height: 1.2
+    }
+
+    .hi-there .content {
+        margin: 20px 30px 0 30px
+    }
+
+    .service-content .media-image {
+        display: none
+    }
+
+    .service-graph .pr25 {
+        padding-right: 0
+    }
+
+    .service-graph .pl30 {
+        padding-left: 0
+    }
+
+    .agent-list .agent-item .agent-image {
+        width: 200px;
+        min-width: 200px;
+        padding: 25px 15px 0 0
+    }
+
+    .property-view .property-nav .property-nav-item {
+        margin-left: 20px
+    }
+
+    .page-title {
+        height: 200px
+    }
+
+    .page-title .captions {
+        font-size: 2.5em;
+        margin-bottom: 0
+    }
+
+    .page-404 .page-404-wrapper .page-404-content {
+        width: 80%
+    }
+
+    .page-404 .page-404-wrapper .img-404 {
+        width: 90%
+    }
+
+    .agent-single-info-wrapper .agent-single-info {
+        width: 33.33333%
+    }
+
+    .agent-single-info-wrapper .agent-single-info.socials {
+        margin-top: 0;
+        text-align: right
+    }
+
+    .agent-list-content .load-more {
+        padding-top: 30px
+    }
+
+    .contact .contact-wrapper {
+        left: 15px;
+        right: 15px
+    }
+
+    .contact .contact-wrapper .col-2 {
+        display: block;
+        float: left;
+        width: 100%
+    }
+
+    .nav-bar .detail-nav .nav-item, .nav-bar.nav-fix .detail-nav .nav-item {
+        width: 24%;
+        height: auto;
+        padding: 15px 0
+    }
+
+    .nav-bar .detail-nav .nav-item figure .icon, .nav-bar.nav-fix .detail-nav .nav-item figure .icon {
+        font-size: 1.5em;
+        padding-right: 0
+    }
+
+    .nav-bar .detail-nav .nav-item figure figcaption, .nav-bar.nav-fix .detail-nav .nav-item figure figcaption {
+        display: none
+    }
+
+    .property-detail .detail-wrapper .detail-content .amenities-item {
+        width: 50%
+    }
+
+    .blog-detail .wrapper-image {
+        height: 300px
+    }
+
+    .gallery-nav .btn.btn-white-blue-2, .gallery-nav .btn.btn-white-blue-2.btn-all {
+        width: 93px
+    }
+
+    .grid-item {
+        width: 46.7%
+    }
+
+    .group-title {
+        width: auto;
+        margin: 0 10px 60px
+    }
+
+    .btn.btn-white-blue-2 {
+        width: 105px;
+        margin-right: 8px;
+        margin-bottom: 8px
+    }
+
+    .contact-fast button.close {
+        position: absolute;
+        top: 15px;
+        right: 20px
+    }
+
+    .contact-fast .new-letter-content .new-letter-left {
+        padding-top: 60px;
+        display: block;
+        width: 100%;
+        padding-bottom: 30px
+    }
+
+    .contact-fast .new-letter-content .new-letter-left img {
+        width: 40%;
+        display: inline-block
+    }
+
+    .contact-fast .new-letter-content .new-letter-right {
+        display: block;
+        padding: 0;
+        clear: both;
+        padding-bottom: 60px
+    }
+
+    .contact-fast .agent-single-info-wrapper {
+        display: inline-block;
+        margin: auto;
+        padding-left: 20px;
+        vertical-align: middle
+    }
+
+    .contact-fast .agent-single-info-wrapper .agent-single-info {
+        width: 100%
+    }
+
+    .user-profile .user-content li .tab {
+        font-size: 13px;
+        padding: 16px 20px
+    }
+
+    .user-profile .user-item .user-info {
+        vertical-align: middle
+    }
+
+    .user-info .user-on {
+        margin-bottom: 0
+    }
+
+    .user-info .user-on > a, .user-info .user-on .user-skype, .user-info .user-on .user-mail, .user-info .user-on .user-phone, .user-info .user-on .user-social {
+        display: block;
+        padding-bottom: 5px
+    }
+
+    .signup-register .signup-register-table .title {
+        line-height: 24px;
+        font-size: 1.3em;
+        margin: 0;
+        margin-bottom: 25px
+    }
+
+    .signup-register .signup-register-table .logo-signup {
+        margin-bottom: 15px;
+        display: block
+    }
+
+    .nav-infomation-wrapper .item .icon-info {
+        font-size: 2.2em
+    }
+
+    .about-house-section .about-house-image img {
+        margin: 0 auto
+    }
+
+    .about-house-section .about-house-content .title {
+        text-align: center
+    }
+
+    .banner-flip-list {
+        text-align: center
+    }
+
+    .banner-flip-list .banner-flip-item {
+        width: 50%;
+        height: 250px;
+        display: inline-block;
+        margin: 0 auto;
+        margin-bottom: 40px
+    }
+
+    .banner-flip-list .banner-flip-item:last-child {
+        margin-bottom: 0
+    }
+
+    .near-attraction .near-attraction-list {
+        width: 90%
+    }
+
+    .picture-gallery .gallery-content .grid-items {
+        width: 50%
+    }
+
+    .picture-tabs {
+        margin-bottom: 20px
+    }
+
+    .picture-tabs li {
+        margin-bottom: 20px
+    }
+
+    .coming-soon-page .soon-page-wrapper .col-md-7 {
+        width: 90%
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .header-topbar .topbar-left > li {
+        float: left
+    }
+
+    .about-house-section .about-house-banner {
+        width: 100%
+    }
+
+    .about-house-section .about-house-banner .about-house-banner-wrapper {
+        width: 300px;
+        margin: 0 auto
+    }
+
+    .about-house-section .about-house-banner .info-house {
+        text-align: center
+    }
+
+    .about-house-section .about-house-content.about-house-padding-left {
+        padding-left: 0;
+        display: block;
+        width: 100%;
+        margin-top: 40px;
+        text-align: justify
+    }
+
+    .about-house-section .about-house-content.about-house-padding-left .title {
+        text-align: center
+    }
+
+    .blog .wrapper-image, .blog-detail .wrapper-image {
+        height: 260px
+    }
+
+    .newest-properties-content .col-xs-6 {
+        width: 100%
+    }
+
+    .newest-properties .newest-properties-content .col-md-4:nth-last-child(-n+2) {
+        margin-bottom: 50px
+    }
+
+    .newest-properties .newest-properties-content .col-md-4:last-child {
+        margin-bottom: 0
+    }
+
+    .property-view .property-nav .property-nav-item {
+        width: 100%;
+        margin-left: 0;
+        display: block;
+        margin: 0 auto;
+        padding: 0 20px
+    }
+
+    .property-view .property-item {
+        width: 100%;
+        margin-bottom: 40px
+    }
+
+    .col-md-4 .sunhouse-item .wrapper-image {
+        height: 265px
+    }
+
+    .sunhouse-item .more-info-house .place-house {
+        width: auto;
+        display: table-cell
+    }
+
+    .sunhouse-item .more-info-house .price {
+        margin-top: 0;
+        display: table-cell;
+        text-align: right;
+        float: none
+    }
+
+    .search-widget .search-form .col-xs-6 {
+        width: 100%
+    }
+
+    .banner-sale-off {
+        height: 470px
+    }
+
+    .banner-sale-off .banner-sale-off-background .background-house {
+        width: 80%;
+        bottom: 7px
+    }
+
+    .banner-sale-off .banner-sale-off-wrapper .name-house, .banner-sale-off .banner-sale-off-wrapper .price-house {
+        display: table-cell;
+        vertical-align: middle
+    }
+
+    .hi-there .content {
+        margin: 20px 0 0 0
+    }
+
+    .contact-us .contact-us-scroll {
+        top: 0;
+        left: 0;
+        right: 0;
+        margin-top: 0;
+        position: relative;
+        padding: 60px 0
+    }
+
+    .contact-us-wrapper, .new-letter-wrapper {
+        width: 100%;
+        height: auto;
+        padding-top: 10px;
+        padding-bottom: 60px;
+        float: none
+    }
+
+    .contact-us-wrapper .title {
+        margin-bottom: 15px
+    }
+
+    .contact-us-wrapper .text {
+        margin-bottom: 15px
+    }
+
+    .new-letter-wrapper .title {
+        font-size: 2.143em;
+        margin-bottom: 15px
+    }
+
+    .agent-single-info-wrapper .agent-single-info {
+        width: 50%
+    }
+
+    .agent-single-info-wrapper .agent-single-info.socials {
+        margin-top: 10px;
+        text-align: left
+    }
+
+    .contact .contact-us-wrapper {
+        display: none
+    }
+
+    footer .footer-main .col-xs-6 {
+        width: 100%
+    }
+
+    footer .footer-main .useful-link-widget .col-xs-6 {
+        width: 50%
+    }
+
+    footer .footer-main .widget {
+        margin-bottom: 40px
+    }
+
+    .footer-main-wrapper .col-2 > .row {
+        margin-bottom: 0
+    }
+
+    .form-blog-widget .media .media-left {
+        width: 100px
+    }
+
+    .hyperlink .hyper-right {
+        display: none
+    }
+
+    .page-404 .page-404-wrapper .page-404-content {
+        width: 100%;
+        padding: 0 15px
+    }
+
+    .contact-agents {
+        padding: 20px 15px
+    }
+
+    .contact-agents .contact-agents-left {
+        display: block;
+        padding-right: 0;
+        text-align: center
+    }
+
+    .contact-agents .contact-agents-right {
+        margin-top: 20px;
+        display: block;
+        text-align: center
+    }
+
+    .agent-list .agent-item .agent-info {
+        padding-right: 15px
+    }
+
+    .agent-list .agent-item .agent-info .col-1, .agent-list .agent-item .agent-info .col-2 {
+        width: 100%;
+        text-align: left
+    }
+
+    .agent-list .agent-item .agent-info .col-1 .icon, .agent-list .agent-item .agent-info .col-2 .icon {
+        display: none
+    }
+
+    .agent-list .agent-item .agent-info .col-1 .agent-phone, .agent-list .agent-item .agent-info .col-2 .agent-phone, .agent-list .agent-item .agent-info .col-1 .agent-skype, .agent-list .agent-item .agent-info .col-2 .agent-skype, .agent-list .agent-item .agent-info .col-1 .agent-property, .agent-list .agent-item .agent-info .col-2 .agent-property {
+        font-size: 1em;
+        line-height: 30px
+    }
+
+    .agent-list .agent-item .agent-info .col-1 .agent-social, .agent-list .agent-item .agent-info .col-2 .agent-social {
+        margin-top: 0
+    }
+
+    .agent-list .agent-item .agent-info .col-1 .agent-social a:first-child, .agent-list .agent-item .agent-info .col-2 .agent-social a:first-child {
+        margin-left: 0
+    }
+
+    .property-detail .detail-wrapper .detail-content .property-info {
+        margin-bottom: 30px
+    }
+
+    .property-detail .detail-wrapper .detail-content .property-info .info {
+        margin-bottom: 10px
+    }
+
+    .property-detail .detail-wrapper .detail-content .title {
+        margin-bottom: 15px
+    }
+
+    .blog .wrapper-content .info-house .info-inner, .blog-detail .wrapper-content .info-house .info-inner {
+        font-size: 1.1em
+    }
+
+    .blog .quote .sub-quote {
+        margin-right: 0
+    }
+
+    .blog .quote:before, .blog .quote:after {
+        display: none
+    }
+
+    .blog-detail .wrapper-image {
+        height: 234px
+    }
+
+    .blog-detail .blog-comment .comment-form {
+        padding: 15px;
+        text-align: center
+    }
+
+    .blog-detail .blog-comment .comment-form .btn.btn-blue {
+        display: inline-block
+    }
+
+    .blog-detail .blog-text .blog-image {
+        float: none;
+        width: 100%;
+        margin-bottom: 25px
+    }
+
+    .blog-detail .blog-text .quote {
+        font-size: 2em
+    }
+
+    .blog-detail .blog-comment .comment-list .comment-item .name, .blog-detail .blog-comment .comment-list-children .comment-item .name {
+        margin-bottom: 0;
+        float: none !important
+    }
+
+    .blog-detail .blog-comment .comment-list .comment-item .time, .blog-detail .blog-comment .comment-list-children .comment-item .time {
+        float: none !important;
+        margin-bottom: 10px
+    }
+
+    .blog-detail .blog-comment .comment-list .comment-item .media-image, .blog-detail .blog-comment .comment-list-children .comment-item .media-image {
+        width: 50px
+    }
+
+    .gallery-nav .filter-inner {
+        padding: 10px
+    }
+
+    .gallery-nav .btn.btn-white-blue-2, .gallery-nav .btn.btn-white-blue-2.btn-all {
+        width: 48.4%;
+        margin-right: 10px;
+        margin-bottom: 10px
+    }
+
+    .gallery-nav .btn.btn-white-blue-2:nth-child(even), .gallery-nav .btn.btn-white-blue-2.btn-all:nth-child(even) {
+        margin-right: 0
+    }
+
+    .grid-item {
+        width: 100%;
+        margin: 0 0 15px
+    }
+
+    .grid-item img {
+        width: 100%
+    }
+
+    .contact-fast .new-letter-content {
+        padding: 0 2em
+    }
+
+    .contact-fast .new-letter-content .new-letter-left {
+        padding-top: 4em
+    }
+
+    .contact-fast .new-letter-content .new-letter-right {
+        padding-bottom: 4em
+    }
+
+    .contact-fast .agent-single-info-wrapper {
+        padding-left: 20px
+    }
+
+    .banner-default, .banner-01, .banner-02, .banner-03, .banner-04, .find-best-house, .contact-us, .page-404, .banner-come-in, .page-title, .footer-background {
+        background-attachment: scroll
+    }
+
+    .agency-item {
+        display: table;
+        width: 100%
+    }
+
+    .agency-list-content .agency-item .agency-image {
+        display: table-caption;
+        padding-right: 0;
+        padding-bottom: 20px;
+        margin: 0 40px
+    }
+
+    .agency-list-content .agency-item .agency-image img {
+        width: 100%
+    }
+
+    .agency-info .agency-skype {
+        display: block;
+        margin-bottom: 20px
+    }
+
+    .user-profile .user-content li {
+        margin-right: 2px;
+        width: 32%
+    }
+
+    .user-profile .user-content li .tab {
+        display: block
+    }
+
+    .user-profile .user-image {
+        width: 170px
+    }
+
+    .user-profile .user-image img {
+        width: 100%
+    }
+
+    .user-profile .user-item .user-info {
+        padding-left: 15px
+    }
+
+    .user-profile .user-item .user-info .user-title {
+        font-size: 1.35em;
+        margin-bottom: 15px
+    }
+
+    .submit-properties-wrapper .submit-socials .add-image, .submit-properties-wrapper .submit-socials .add-gallrey, .submit-properties-wrapper .submit-socials .add-media {
+        padding-right: 10px
+    }
+
+    .submit-properties-wrapper .submit-socials {
+        font-size: 12px
+    }
+
+    .signup-register .signup-register-table .title {
+        font-size: 1.143em;
+        line-height: 18px
+    }
+
+    .signup-register .title-sign-in .signin {
+        display: inline-block
+    }
+
+    .faq-wrapper .panel {
+        padding: 0 15px;
+        margin: 0
+    }
+
+    .faq-wrapper .panel .panel-collapse .help {
+        margin-bottom: 15px;
+        font-size: 1em
+    }
+
+    .panel-title {
+        font-size: 14px
+    }
+
+    .pricing-description .text {
+        font-size: 1em
+    }
+
+    .banner-flip-list .banner-flip-item {
+        width: 90%;
+        margin: 0 auto;
+        display: block;
+        margin-bottom: 30px
+    }
+
+    .near-attraction .near-attraction-slider, .near-attraction .near-attraction-list {
+        width: 100%
+    }
+
+    .near-attraction .near-attraction-slider .items {
+        margin: 0
+    }
+
+    .banner-06 .wrapper-banner .wrapper-title .title {
+        font-size: 2.143em
+    }
+
+    .banner-06 .wrapper-banner .wrapper-title .sub-title {
+        font-size: 1.429em
+    }
+
+    .banner-flip {
+        padding: 15px
+    }
+
+    .banner-flip .banner-flip-item {
+        width: 100%
+    }
+
+    .amenites-list .amenites-item .texts-right {
+        width: auto;
+        text-align: right
+    }
+
+    .group-button .btn:first-child {
+        margin-right: 0;
+        margin-bottom: 20px
+    }
+
+    .banner-06 .wrapper-banner .group-button .price-left {
+        margin-right: 0;
+        margin-bottom: 20px
+    }
+
+    .category-widget .category-group .cat-item {
+        font-size: 1em
+    }
+
+    .coming-soon-page .cs-wrapper {
+        padding: 30px 20px
+    }
+
+    .coming-soon-page .cs-wrapper .countdown {
+        padding: 0 10%;
+        display: inline-block
+    }
+
+    .coming-soon-page .cs-wrapper .countdown .count-wrapper {
+        padding-bottom: 30px
+    }
+
+    .coming-soon-page .cs-wrapper .countdown .count-wrapper:nth-of-type(2n) {
+        padding-right: 0
+    }
+
+    .coming-soon-page .cs-wrapper .countdown .count-wrapper:nth-last-of-type(-n + 2) {
+        padding-bottom: 0
+    }
+
+    .coming-soon-page .cs-wrapper .countdown .time {
+        width: 100px
+    }
+
+    .coming-soon-page .cs-wrapper .coming-soon-wrapper .coming-soon-title {
+        font-size: 25px;
+        padding-bottom: 20px
+    }
+
+    .coming-soon-page .cs-wrapper .coming-soon-wrapper .coming-soon-title .soon-text {
+        line-height: 28px
+    }
+}
+
+@media screen and (max-width: 380px) {
+    body {
+        font-size: 12px
+    }
+
+    p, a, label, span {
+        font-size: 1.17em
+    }
+
+    .page-title .breadcrumb {
+        font-size: 1em
+    }
+
+    .property-padding {
+        padding-top: 25px
+    }
+
+    .header-main .navigation {
+        width: 100%
+    }
+
+    .header-main .navigation .nav-links .main-menu {
+        font-size: 1.167em
+    }
+
+    .header-main .dropdown-menu .link-page {
+        font-size: 1em
+    }
+
+    .header-topbar .topbar-left > li:last-child {
+        display: none
+    }
+
+    .blog .wrapper-image, .blog-detail .wrapper-image {
+        height: 210px
+    }
+
+    .blog-author {
+        padding: 15px
+    }
+
+    .blog-author .media-right {
+        padding-left: 15px
+    }
+
+    .about-house-section .about-house-banner .about-house-banner-wrapper {
+        width: 100%
+    }
+
+    .banner-default .banner-default-content .group-button {
+        margin-top: 30px
+    }
+
+    .banner-04 .banner-04-wrapper .description {
+        text-align: center
+    }
+
+    .banner-04 .banner-04-wrapper .description .price-left {
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 20px
+    }
+
+    .banner-04 .banner-04-wrapper .description .button-right {
+        display: inline-block;
+        width: auto;
+        margin-left: 0
+    }
+
+    .search-properties .search-form .col-xs-6 {
+        width: 100%
+    }
+
+    .search-propertie-filters .col-xs-4, .search-properties-content .col-xs-4 {
+        width: 50%
+    }
+
+    .user-profile .user-item .user-info {
+        display: block;
+        width: 100%;
+        padding-left: 0;
+        padding-top: 20px;
+        font-size: 10px
+    }
+
+    .user-profile .user-item .user-info .user-title {
+        font-size: 1.8em;
+        margin-bottom: 10px
+    }
+
+    .user-profile .user-image {
+        width: 100%
+    }
+
+    .user-profile .user-content li .tab {
+        padding: 15px 10px
+    }
+
+    .col-md-4 .sunhouse-item .wrapper-image {
+        height: 210px
+    }
+
+    .sunhouse-item .about-house .title {
+        font-size: 1.8em
+    }
+
+    .service-content .media-image {
+        width: 100%
+    }
+
+    .agent-list .agent-item .agent-image {
+        width: 240px;
+        padding-right: 0;
+        display: block;
+        margin: 0 auto
+    }
+
+    .agent-list .agent-item .agent-info {
+        padding: 15px;
+        display: inline-block;
+        width: 100%
+    }
+
+    .agent-list .agent-item .agent-info .agent-des {
+        font-size: 1.167em
+    }
+
+    .agent-list .agent-item .agent-info .col-1, .agent-list .agent-item .agent-info .col-2 {
+        padding-left: 0;
+        width: 50%
+    }
+
+    .agent-list .agent-item .agent-info .col-2 {
+        text-align: right
+    }
+
+    .agent-list .agent-item:last-child {
+        margin-bottom: 0
+    }
+
+    .agent-list-content .load-more {
+        padding-top: 30px
+    }
+
+    .seller-info-widget .star-rating:before {
+        font-size: 1.17em
+    }
+
+    .find-best-house .content {
+        width: 100%
+    }
+
+    .banner-sale-off .banner-sale-off-wrapper .name-house {
+        width: 60%
+    }
+
+    .contact-form {
+        font-size: 1.17em
+    }
+
+    .search-form-group .input-form {
+        font-size: 1.17em
+    }
+
+    .our-service-items .name {
+        font-size: 1.67em
+    }
+
+    .our-service-items .text {
+        font-size: 1.167em
+    }
+
+    .sunhouse-title .sub-title {
+        font-size: 1.167em
+    }
+
+    .info i {
+        font-size: 1.2em
+    }
+
+    .info p {
+        font-size: 1em
+    }
+
+    .about-house-section .info {
+        margin-bottom: 10px;
+        margin-right: 20px
+    }
+
+    .about-house-section .info i {
+        font-size: 2em
+    }
+
+    .banner-come-in {
+        height: 160px
+    }
+
+    .banner-03 .banner-03-wrapper {
+        padding-top: 50px
+    }
+
+    .agent-statistics .statistic-items {
+        width: 50%
+    }
+
+    .agent-single-info-wrapper .agent-single-info {
+        width: 100%;
+        text-align: left !important;
+        margin-top: 10px
+    }
+
+    .agent-single-info-wrapper .agent-single-info:first-child {
+        margin-top: 0
+    }
+
+    .contact-agent-widget {
+        padding: 20px 20px 10px
+    }
+
+    .contact-agent-widget .social-info .link {
+        margin-left: 12px
+    }
+
+    .contact .col-2 .col-xs-6 {
+        width: 100%
+    }
+
+    .contact .contact-info-item {
+        padding-bottom: 0
+    }
+
+    .contact .contact-header {
+        padding-bottom: 40px
+    }
+
+    .contact-agent-single-content .new-letter-wrapper {
+        padding-left: 15px;
+        padding-right: 15px
+    }
+
+    .newest-properties .newest-properties-content {
+        float: none
+    }
+
+    .blog .quote .sub-quote .author {
+        font-size: 1em
+    }
+
+    .blog .quote .sub-quote .pos {
+        font-size: 0.7em
+    }
+
+    .blog-detail .blog-comment-title {
+        font-size: 1.715em
+    }
+
+    .blog-detail .blog-text .text, .blog-detail .blog-comment .comment-list .comment-item .name, .blog-detail .blog-comment .comment-list-children .comment-item .name, .blog-detail .blog-comment .comment-list .comment-item .des, .blog-detail .blog-comment .comment-list-children .comment-item .des, .blog-detail .blog-comment .comment-form .form-input {
+        font-size: 1.167em
+    }
+
+    .blog-detail .blog-comment .comment-list .comment-item .time, .blog-detail .blog-comment .comment-list-children .comment-item .time, .blog-detail .blog-comment .btn-crystal {
+        font-size: 1em
+    }
+
+    .feature-widget .feature-item .feature-title {
+        font-size: 1.3em
+    }
+
+    .feature-widget .info .category, .feature-widget .info .date, .feature-widget .info .address {
+        font-size: 1em
+    }
+
+    .feature-widget .info .address span {
+        font-size: 1em
+    }
+
+    .feature-widget .info .price span {
+        font-size: 1.25em
+    }
+
+    .feature-widget .info .price .price-of-rent {
+        font-size: 0.98em
+    }
+
+    .blog-detail .wrapper-image {
+        height: 194px
+    }
+
+    .gallery-nav .btn.btn-white-blue-2, .gallery-nav .btn.btn-white-blue-2.btn-all {
+        width: 48%
+    }
+
+    .property-detail .detail-wrapper .detail-content .amenities, .property-detail .detail-wrapper .detail-content .condition, .property-detail .detail-wrapper .detail-content .description {
+        margin-bottom: 40px
+    }
+
+    .property-detail .detail-wrapper .detail-content .description .des-text .text {
+        margin-bottom: 15px
+    }
+
+    .property-detail .detail-wrapper .detail-content .description .des-text .text:last-child {
+        margin-bottom: 0
+    }
+
+    .search-form-widget .label {
+        font-size: 1em
+    }
+
+    .agency-list-content .agency-title {
+        margin-bottom: 15px
+    }
+
+    .agency-list-content .about-wrapper {
+        padding: 30px 0
+    }
+
+    .agency-list-content .about-wrapper .main-text {
+        font-size: 12px
+    }
+
+    .agency-list-content .about-wrapper .main-text .text {
+        margin-bottom: 15px
+    }
+
+    .agency-list-content .about-wrapper .main-text .text:last-child {
+        margin-bottom: 0
+    }
+
+    .user-mail {
+        display: inline-block
+    }
+
+    .add-media {
+        padding-top: 15px
+    }
+
+    .signup-register .signup-register-table .title .link, .signup-register .signup-register-table .title-sign-in .signin {
+        font-size: 1.1em
+    }
+
+    .search-properties .group-button-search .more-filter {
+        display: block;
+        margin-bottom: 20px;
+        text-align: center
+    }
+
+    .search-properties .group-button-search .btn-search {
+        display: inline-block;
+        float: none;
+        width: 100%;
+        text-align: center
+    }
+
+    .signup-register .signup-register-table {
+        padding: 30px 15px
+    }
+
+    .faq-wrapper .panel .panel-heading .accordion-toggle {
+        padding: 15px 30px 15px 0
+    }
+
+    .faq-wrapper .panel .panel-heading .accordion-toggle:after {
+        top: 15px
+    }
+
+    .faq-wrapper .panel.active .panel-heading .accordion-toggle:after {
+        top: 15px
+    }
+
+    .panel-body {
+        font-size: 14px
+    }
+
+    .pricing-description {
+        font-size: 14px;
+        padding: 15px;
+        padding-bottom: 20px
+    }
+
+    .pricing-description .text {
+        font-size: 1em;
+        padding: 25px 0
+    }
+
+    .pricing-description .price-for-user {
+        padding: 30px 0 15px 0
+    }
+
+    .pricing-description .get-start {
+        margin-top: 20px
+    }
+
+    .amenites-list .amenites-item {
+        font-size: 1.2em
+    }
+
+    .banner-flip-list .banner-flip-item .banner-font .text {
+        font-size: 1.3em
+    }
+
+    .banner-flip-list .banner-flip-item .banner-font .area {
+        font-size: 1.4em
+    }
+
+    .near-attraction .near-attraction-list .items-left .icon-items {
+        font-size: 2.8em
+    }
+
+    .near-attraction .near-attraction-list .items-right .title {
+        font-size: 1.6em
+    }
+
+    .coming-soon-page .cs-wrapper .coming-soon-wrapper .coming-soon-title {
+        font-size: 20px;
+        padding-bottom: 20px
+    }
+
+    .coming-soon-page .cs-wrapper .coming-soon-wrapper .coming-soon-title .soon-text {
+        line-height: 24px
+    }
+
+    .coming-soon-page .cs-wrapper .coming-soon-wrapper .coming-soon-text {
+        font-size: 12px;
+        padding-bottom: 30px
+    }
+
+    .coming-soon-page .cs-wrapper .countdown {
+        padding: 0
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .sunhouse-item .more-info-house .place-house {
+        width: 100%;
+        display: block
+    }
+
+    .sunhouse-item .more-info-house .price {
+        margin-top: 10px;
+        float: left;
+        display: block;
+        text-align: left
+    }
+
+    .blog .wrapper-image, .blog-detail .wrapper-image {
+        height: 180px
+    }
+
+    .col-md-4 .sunhouse-item .wrapper-image {
+        height: 190px
+    }
+
+    .banner-sale-off .banner-sale-off-wrapper .name-house {
+        display: block;
+        width: 100%
+    }
+
+    .banner-sale-off .banner-sale-off-wrapper .price-house {
+        padding: 25px 15px 15px 15px;
+        text-align: center;
+        display: block;
+        margin: 0 auto
+    }
+
+    .banner-default .banner-default-wrapper .banner-default-content .title .main-title {
+        font-size: 2.85em
+    }
+
+    .banner-default .banner-default-wrapper .banner-default-content .title .sub-title {
+        font-size: 1.4em
+    }
+
+    .header-topbar .topbar-left > li:last-child {
+        display: none
+    }
+
+    .about-house-section .about-house-content .title {
+        line-height: 30px;
+        margin-bottom: 15px
+    }
+
+    .about-house-section .about-house-content .text {
+        margin-bottom: 15px
+    }
+
+    .contact-agent-widget .contact-info {
+        display: table-cell;
+        width: 70%
+    }
+
+    .contact-agent-widget .social-info .link {
+        margin-left: 8px;
+        width: 30px;
+        height: 28px;
+        line-height: 28px;
+        margin-bottom: 10px
+    }
+
+    .contact-agent-widget {
+        padding: 15px 15px 10px
+    }
+
+    .pagination li:first-child .link-pagination, .pagination li:last-child .link-pagination {
+        padding: 0 10px
+    }
+
+    .grid-item {
+        height: 216px
+    }
+
+    .contact-fast .agent-single-info-wrapper {
+        padding-left: 10px
+    }
+
+    .header-main .navigation {
+        min-width: 320px
+    }
+
+    .signup-register .form-register .col-md-6, .signup-register .form-signup .col-md-12 {
+        margin-bottom: 20px
+    }
+
+    .coming-soon-page .cs-wrapper {
+        padding: 30px 15px
+    }
+
+    .coming-soon-page .cs-wrapper .countdown {
+        font-size: 36px
+    }
+
+    .coming-soon-page .cs-wrapper .countdown .time {
+        padding: 30px 0px;
+        width: 80px;
+        height: 80px
+    }
+
+    .coming-soon-page .cs-wrapper .countdown .count-wrapper {
+        padding-bottom: 20px
+    }
+}
