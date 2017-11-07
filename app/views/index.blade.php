@@ -165,7 +165,7 @@
                         <div class="container">
                             <div class="newest-properties-wrapper">
                                 <div class="sunhouse-title">
-                                    <div class="icon-image"><img src="assets/images/zbarrios_chiquito.jpg" alt="" class="img-responsive"/><!--.icon-title--><!--    i.icon-church--></div>
+                                    <div class="icon-image"><img src="assets/images/sineNomineLogoTransparente_chico.png" alt="" class="img-responsive"/><!--.icon-title--><!--    i.icon-church--></div>
                                     <br>
                                     <h2 class="main-title">Propiedades Destacadas</h2>
 
